@@ -70,3 +70,27 @@ else:
 Age = 26
 status = "Major" if Age >= 18 else "Minor"             #8
 print(status)
+
+
+
+
+a = "Hello"
+b = "python"                          #9
+print(a,b)
+
+if "H" in a:
+    print("yes")
+else:
+    print("no")
+
+
+
+
+a = "Hello"
+b = "python"
+print(a,b)                              #10
+
+if "h" not in a:
+    print("yes")
+else:
+    print("no")
