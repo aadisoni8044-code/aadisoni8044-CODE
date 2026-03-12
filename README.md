@@ -1,5 +1,6 @@
 
-<img width="888" height="266" alt="Screenshot 2026-03-12 201021" src="https://github.com/user-attachments/assets/e766b6bf-cfe2-485b-acc9-a58464f3b2c2" />
+<img width="1027" height="493" alt="Screenshot 2026-03-12 200623" src="https://github.com/user-attachments/assets/cbafd958-9456-47b1-abe6-ff5b9e940467" />
+
 
   https://aadisoni8044-code.github.io/HTML/ 
 
