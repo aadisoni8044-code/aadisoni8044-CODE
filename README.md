@@ -1,5 +1,6 @@
-<img width="822" height="395" alt="Screenshot 2026-01-24 193746" src="https://github.com/user-attachments/assets/14f5a4fe-0d46-4c14-87a9-96f99814182f" />
-         
+
+<img width="888" height="266" alt="Screenshot 2026-03-12 201021" src="https://github.com/user-attachments/assets/e766b6bf-cfe2-485b-acc9-a58464f3b2c2" />
+
   https://aadisoni8044-code.github.io/HTML/ 
 
 Generate QR code
