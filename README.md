@@ -1,22 +1,21 @@
-Act as an open-source technical writer. Write a clean, modern, and professional README.md in English for my custom programming language and IDE project named "OpenMS".
 
-Project Details:
-- Name: OpenMS
-- Target Audience: Beginners, game developers, and students wanting an intuitive way to code 2D/3D graphics.
-- Core Stack: Native performance engine built with C++ / C / Python.
-- Key Features: 
-  1. Built-in 2D/3D graphics & animation commands (e.g., box(), bol(),machine().
-  2. Native desktop IDE with built-in dark theme, syntax highlighting, and color picker.
-  3. Lightweight, fast execution with direct rendering output.
+<img width="306" height="202" alt="Screenshot 2026-07-14 115221" src="https://github.com/user-attachments/assets/92b4cbe1-c20c-43c4-a2b6-7c884c56cf53" />
 
-README Structure Required:
-1. Catchy Title & Tagline
-2. About OpenMS (Short overview)
-3. Key Features (Bullet points with icons)
-4. Tech Stack (C++, Python, C)
-5. Quick Start / Installation Guide
-6. Example OpenMS Code Snippet
-7. Roadmap (Future goals like custom compiler expansion)
-8. License & Contributing guidelines
 
-Keep the formatting clean, scannable, and formatted with Markdown and badges.
+
+
+
+
+
+
+
+** OpenMS
+--------------
+
+Act as an expert Systems Programmer building a custom language/IDE called "OpenMS".
+Create a clean architecture using C++, C, and Python for maximum native performance.
+Include a C++ GUI code editor with dark theme, sidebar, terminal, and custom syntax highlighting.
+Add lexer/parser logic in C++ to process 2D/3D functions like box(), bol(), and rotation().
+Show how Python (via pybind11) handles high-level automation, JSON settings, and web APIs.
+Provide production-ready source code files (main.cpp, editor.h) with step-by-step compile instructions.
+Keep the code heavily commented, modular, and optimized for a high-performance graphics engine.
