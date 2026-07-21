@@ -1,28 +1,22 @@
-# Developing a Custom Operating System & Programming Language
+Act as an open-source technical writer. Write a clean, modern, and professional README.md in English for my custom programming language and IDE project named "OpenMS".
 
-I am building **Speedy OS**—a custom operating system designed to run on any laptop. To support its development, I also built a custom programming language from scratch, **Open MS**.
+Project Details:
+- Name: OpenMS
+- Target Audience: Beginners, game developers, and students wanting an intuitive way to code 2D/3D graphics.
+- Core Stack: Native performance engine built with C++ / C / Python.
+- Key Features: 
+  1. Built-in 2D/3D graphics & animation commands (e.g., box(), bol(),machine().
+  2. Native desktop IDE with built-in dark theme, syntax highlighting, and color picker.
+  3. Lightweight, fast execution with direct rendering output.
 
----
+README Structure Required:
+1. Catchy Title & Tagline
+2. About OpenMS (Short overview)
+3. Key Features (Bullet points with icons)
+4. Tech Stack (C++, Python, C)
+5. Quick Start / Installation Guide
+6. Example OpenMS Code Snippet
+7. Roadmap (Future goals like custom compiler expansion)
+8. License & Contributing guidelines
 
-## 💿 Speedy OS
-An operating system built from scratch to achieve direct hardware control and run seamlessly on standard laptop hardware.
-* **Built With:** NASM Assembly and C/C++
-* **Core Feature:** Features a custom bootloader and a monolithic-inspired kernel that interacts directly with the computer's CPU registers and memory.
-
-## ⚙️ Open MS (Open Machine System)
-A custom programming language built from scratch to act as the native scripting language for Speedy OS, while being fully cross-platform.
-* **Built With:** C++ (Custom Lexer, Parser, and AST pipeline)
-* **Compatibility:** Engineered to run seamlessly on **Windows, macOS, and Linux**, in addition to its native integration within Speedy OS.
-
----
-
-## 🛠️ Technical Stack
-* **Low-Level:** NASM Assembly, C, C++
-* **Concepts:** Kernel Architecture, Bootloaders, Compiler/Interpreter Design
-
----
-
-👉 **Explore the pinned repositories below to check the source code.**
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+Keep the formatting clean, scannable, and formatted with Markdown and badges.
